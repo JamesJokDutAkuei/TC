@@ -9,11 +9,13 @@ A simple Flutter app for converting temperatures between Fahrenheit and Celsius.
 - Clean, beginner-friendly code
 
 ## Screenshots
-![Portrait and Landscape](screenshot.png)
+<img width="381" alt="Screenshot 2025-05-30 at 00 04 14" src="https://github.com/user-attachments/assets/897bdb0b-e2ef-48ab-aecc-1813a55fba1b" />
+
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites<img width="792" alt="Screenshot 2025-05-30 at 00 04 51" src="https://github.com/user-attachments/assets/f84238b2-99ae-496e-9c34-db522c243a3d" />
+
 - [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine
 
 ### Running the App
